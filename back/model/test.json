@@ -1,0 +1,22 @@
+[  
+     { 
+        "nom":"Andry",
+        "prenom":"Fitiavana",
+        "image":"/assets/img9.jpg"
+    },
+    { 
+        "nom":"Nomenarasolo",
+        "prenom":"jojo",
+        "image":"/assets/img10.jpg"
+    },
+    { 
+        "nom":"Mimie",
+        "prenom":"kensah",
+        "image":"/assets/img11.jpg"
+    },
+    { 
+        "nom":"Rivo",
+        "prenom":"rakotovao",
+        "image":"/assets/img12.jpg"
+    }
+]

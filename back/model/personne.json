@@ -1,0 +1,24 @@
+[  
+    { 
+       "nom":"miranto",
+       "prenom":"blabla",
+       "image":"/assets/img5.jpg"
+
+   },
+   { 
+       "nom":"jjjj",
+       "prenom":"aaaa",
+       "image":"/assets/img6.PNG"
+   },
+   { 
+       "nom":"hhhh",
+       "prenom":"rrrr",
+       "image":"/assets/img7.PNG"
+   },
+   { 
+       "nom":"kk",
+       "prenom":"dd",
+       "image":"/assets/img8.jpg"
+
+   }
+]
